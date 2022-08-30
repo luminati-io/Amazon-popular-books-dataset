@@ -53,4 +53,4 @@ filters may reduce the final price. This dataset is available with monthly / wee
 
 <h2>Free access to web data collection tools and datasets for academic researchers and NGOs</h2>
 
-The Bright Initiative offers access to Bright Data's web data collection platform to academic faculties, NGOs and NPOs promoting various environmental and social causes. You can submit an application here.
+The Bright Initiative offers access to Bright Data's web data collection platform to academic faculties, NGOs and NPOs promoting various environmental and social causes. You can submit an application [here](https://brightinitiative.com/).
