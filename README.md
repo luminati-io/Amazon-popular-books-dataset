@@ -37,11 +37,13 @@ control panel.
 
 Additional filter query values that can be used: <b>ASIN, brand, # of sellers, price after discount, timestamp, best-seller rank, and more.</b>
 
+Datasets are hosted on **snowflake** for maximum filter and display speeds.
+
 Available dataset file formats: <b>JSON, NDJSON, CSV, XLSX</b>.
 
 Dataset delivery type options: <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
 
-Buy the full Amazon dataset on <b>[Bright Data datasets page](https://brightdata.com/products/datasets/amazon)</b>. Purchasing a smaller subset after using smart 
+Buy the full Amazon dataset on <b>[Bright Data datasets page](https://brightdata.grsm.io/vitariz-datasets)</b>. Purchasing a smaller subset after using smart 
 filters may reduce the final price. This dataset is available with monthly / weekly / daily refreshes and takes only 1 day to deliver.
 
 
