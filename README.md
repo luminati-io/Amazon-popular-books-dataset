@@ -1,6 +1,6 @@
 # Amazon-popular-books-dataset
 A Github dataset of the most reviewed and best-selling books on Amazon.
-This Amazon dataset contains 2269 [best-selling](https://www.amazon.com/b/?ie=UTF8&node=16857165011&ref_=sv_b_3) books. Each book title on this Amazon dataset has gained 10,000 reader reviews or more, making them stand out as the most popular books available. 
+This Amazon dataset contains more than 190,000 best-selling books. Each book title on this Amazon dataset has gained 10,000 reader reviews or more, making them stand out as the most popular books available. 
 
 <h2>Key data points included in this free dataset:</h2>
 
@@ -43,15 +43,15 @@ Available dataset file formats: <b>JSON, NDJSON, CSV, XLSX</b>.
 
 Dataset delivery type options: <b>API download, Amazon S3, Google cloud, Microsoft Azure, SFTP</b>.
 
-Buy the full Amazon dataset on <b>[Bright Data datasets page](https://brightdata.grsm.io/vitariz-datasets)</b>. Purchasing a smaller subset after using smart 
+Buy the full dataset on <b>[Bright Data's Amazon datasets page](https://brightdata.com/products/datasets/amazon)</b>. Purchasing a smaller subset after using smart 
 filters may reduce the final price. This dataset is available with monthly / weekly / daily refreshes and takes only 1 day to deliver.
 
 
 <h2>More eCommerce datasets available from Bright Data:</h2>
 
 *   1,000,000 "Amazon Sellers" 
-*   70,000,000 "Amazon Products and Reviews" 
-*   20,000,000 "Walmart products and Reviews"
+*   544,000,000 "Amazon Products and Reviews" 
+*   375,000,000 "Walmart products and Reviews" - Learn more about the Walmart Dataset [here](https://brightdata.com/products/datasets/walmart).
 
 <h2>Free access to web data collection tools and datasets for academic researchers and NGOs</h2>
 
